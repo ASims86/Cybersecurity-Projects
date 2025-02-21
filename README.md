@@ -9,3 +9,5 @@ I am a 21 year Army veteran with a passion for IT, specifically information secu
 This repository is to provide anyone who wishes a view into my skill set and to display my home labs. I believe it's important to show that I am dedicated to development and self-improvement. 
 
 ## Skills
+
+| Skill                                                        | Associated Project                      |
